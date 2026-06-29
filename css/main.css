@@ -55,3 +55,21 @@ input{
     font-style: italic;
     color: #fff;
 }
+
+ul{
+    align-items: center;
+    background-color: rgb(0, 0, 55);
+    color: #fff;
+    padding: 16px;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.riscado {
+    text-decoration: line-through;
+    opacity: 0.6; 
+}
